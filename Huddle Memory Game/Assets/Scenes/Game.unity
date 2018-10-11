@@ -683,8 +683,8 @@ MonoBehaviour:
   m_ChildAlignment: 4
   m_StartCorner: 0
   m_StartAxis: 0
-  m_CellSize: {x: 150, y: 150}
-  m_Spacing: {x: 50, y: 50}
+  m_CellSize: {x: 110, y: 110}
+  m_Spacing: {x: 100, y: 100}
   m_Constraint: 1
   m_ConstraintCount: 3
 --- !u!114 &258293564
@@ -698,9 +698,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2d6db9b64257aa5478ca9931eaa3bbd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cardSizeShortPairs: 150
-  cardSizeMediumPairs: 130
-  cardSizeManyPairs: 100
+  cardSizeShortPairs: 110
+  cardSizeMediumPairs: 90
+  cardSizeManyPairs: 70
   _cardPairs: 0
 --- !u!1 &260847715
 GameObject:
@@ -3126,7 +3126,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1280, y: 720}
+  m_SizeDelta: {x: 2000, y: 2000}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1435967506
 MonoBehaviour:
@@ -3604,7 +3604,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1280, y: 720}
+  m_SizeDelta: {x: 2000, y: 2000}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1653203467
 GameObject:
